@@ -23,7 +23,6 @@ You can view the site here:
 📁 Project Structure
 
 - `index.html` – Main HTML file with arc summaries  
-- `style.css` – Styling for the webpage (optional)  
 - `images/` – Folder for background and content images  
 
 🛠️ Tools Used
